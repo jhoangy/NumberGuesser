@@ -1,3 +1,4 @@
+#Make sure everything is installed properly
 import subprocess
 import sys
 import get_pip
